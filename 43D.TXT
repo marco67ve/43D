@@ -1,0 +1,28 @@
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออ
+                    4-3D Version 3.03
+          Tic-Tac-Toe 3D - Quick Reference Card
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออ
+
+REQUISITI:
+  ๛ VGA obbligatoria
+  ๛ Mouse obbligatorio (con driver caricato)
+
+CONTROLLI:
+   TASTO SINISTRO:  Gioca sulla posizione cliccata
+   TASTO DESTRO:    Passa il turno (per far iniziare il PC!)
+   ESC:             Esci
+
+OBIETTIVO:
+  Allinea 4 cerchi rossi in qualsiasi direzione del cubo 4x4x4
+
+PUNTEGGIO:
+  11.010 - (100 x mosse) - secondi = ???
+  Obiettivo: 10.000 punti!
+
+PROBLEMI:
+  "Mouse non installato"   Lancia MOUSE.COM prima
+  "Schermo nero"           Serve VGA, non EGA/CGA
+  "Chi inizia?"            Tu! (premi DESTRO per cedere al PC)
+
+BUON DIVERTIMENTO!
+ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออ
