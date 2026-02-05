@@ -81,28 +81,6 @@ Il programma **terminerà automaticamente** se manca VGA o mouse.
 Per far iniziare il computer, premi il **tasto destro del mouse**
 all'inizio della partita. Di default il giocatore ha sempre
 la prima mossa.
-```
-
----
-
-## **PERCHÉ IL FILE DOC È IMPORTANTE:**
-```
-╔════════════════════════════════════════════════════╗
-║  SENZA ISTRUZIONI:                                 ║
-║  • "Come si gioca?"                                ║
-║  • "Serve il mouse?"                               ║
-║  • "Perché non parte?"                             ║
-║  • "Come faccio iniziare il computer?"             ║
-║  • "Cos'è questo cubo?"                            ║
-║                                                    ║
-║  CON 43D.DOC:                                      ║
-║  • Tutto chiaro! ✅                                ║
-║  • Requisiti espliciti ✅                          ║
-║  • Controlli spiegati ✅                           ║
-║  • Strategia suggerita ✅                          ║
-║  • Risoluzione problemi ✅                         ║
-╚════════════════════════════════════════════════════╝
-```
 
 ## 📸 Screenshots
 
@@ -125,4 +103,5 @@ isometrica con UI professionale.*
 - Layout bilanciato (golden ratio)
 - Feedback visivo immediato
 - Palette VGA 16 colori ottimizzata
+
 
