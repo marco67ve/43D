@@ -66,8 +66,8 @@ Public Domain (PD 1989)
 
 ## 📖 Documentazione
 
-- **[Manuale completo](43D.TXT)** - Istruzioni dettagliate, controlli, strategia
-- **[Guida rapida](43D-QUICK.TXT)** - Reference card per iniziare subito
+- **[Manuale completo](43D.DOC)** - Istruzioni dettagliate, controlli, strategia
+- **[Guida rapida](43D.TXT)** - Reference card per iniziare subito
 
 ### ⚠️ Note Importanti
 
@@ -103,5 +103,6 @@ isometrica con UI professionale.*
 - Layout bilanciato (golden ratio)
 - Feedback visivo immediato
 - Palette VGA 16 colori ottimizzata
+
 
 
