@@ -102,6 +102,7 @@ la prima mossa.
 ║  • Strategia suggerita ✅                          ║
 ║  • Risoluzione problemi ✅                         ║
 ╚════════════════════════════════════════════════════╝
+```
 
 ## 📸 Screenshots
 
@@ -124,3 +125,4 @@ isometrica con UI professionale.*
 - Layout bilanciato (golden ratio)
 - Feedback visivo immediato
 - Palette VGA 16 colori ottimizzata
+
